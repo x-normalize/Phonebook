@@ -28,10 +28,8 @@ Enter 5 To Quit.
 
 ![2022-10-14 122_11_45-cmd py – Phonebook](https://user-images.githubusercontent.com/94692820/195810107-23d76fc1-d1e8-4fd2-a453-afe99f478426.jpg)
 
-
-
 ![2022-10-14 12_11_45-cmd py – Phonebook py](https://user-images.githubusercontent.com/94692820/195810077-20c0afce-8f09-447d-9915-02a84dd2280e.png)
 
-![image](https://user-images.githubusercontent.com/94692820/198317767-b7463eb7-4544-400a-92c9-0679e6c838ee.png)
+![image](https://user-images.githubusercontent.com/94692820/198318204-20ee9e50-ed94-4d77-baaf-1ce337042e02.png)
 
 
